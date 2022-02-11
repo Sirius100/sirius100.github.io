@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.c0861287.css",
+    "main.css": "/static/css/main.64f0ec85.css",
     "main.js": "/static/js/main.a6a982c0.js",
     "static/media/Arimo-VariableFont_wght.ttf": "/static/media/Arimo-VariableFont_wght.911df5c23579552301c7.ttf",
     "index.html": "/index.html",
-    "main.c0861287.css.map": "/static/css/main.c0861287.css.map",
+    "main.64f0ec85.css.map": "/static/css/main.64f0ec85.css.map",
     "main.a6a982c0.js.map": "/static/js/main.a6a982c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0861287.css",
+    "static/css/main.64f0ec85.css",
     "static/js/main.a6a982c0.js"
   ]
 }
